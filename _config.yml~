@@ -3,8 +3,8 @@ email: 2277103364@qq.com
 description: 有所执，方能有所成。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jarcheng
+zhihu_username: zzzzz-z
+github_username:  jiache
 
 # Build settings
 markdown: kramdown

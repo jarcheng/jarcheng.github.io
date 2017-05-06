@@ -1,10 +1,10 @@
 title: JiachengHuang's blog
-email: 2277103364@qq.com
+email: jiacheng.huang@outlook.com
 description: 有所执，方能有所成。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 zhihu_username: zzzzz-z
-github_username:  jarcheng
+github_username:  jiache
 
 # Build settings
 markdown: kramdown
